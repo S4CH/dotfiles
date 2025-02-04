@@ -1,5 +1,5 @@
 -- Vanilla Config
-require('numToStr.settings')
-require('numToStr.autocmd')
-require('numToStr.plugins')
-require('numToStr.keybinds')
+require('s4ch.settings')
+require('s4ch.autocmd')
+require('s4ch.plugins')
+require('s4ch.keybinds')
